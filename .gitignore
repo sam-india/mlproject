@@ -205,3 +205,11 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+anaconda_projects/db/project_filebrowser.db
+artifacts/data.csv
+artifacts/test.csv
+artifacts/train.csv
+notebook/catboost_info/catboost_training.json
+notebook/catboost_info/learn_error.tsv
+notebook/catboost_info/time_left.tsv
+notebook/catboost_info/learn/events.out.tfevents
