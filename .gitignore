@@ -214,3 +214,4 @@ notebook/catboost_info/learn_error.tsv
 notebook/catboost_info/time_left.tsv
 notebook/catboost_info/learn/events.out.tfevents
 artifacts/preprocessor.pkl
+artifacts/model.pkl
